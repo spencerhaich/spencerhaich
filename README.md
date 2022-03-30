@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @spencerhaich
-- 👀 I’m interested in applying my coding and mathematics skills to interesting data science projects. 
-- 🌱 I’m currently learning machine learning 
-- 📫 Reach me at my email: spencerhaich@gmail.com
+- Hi, I’m @spencerhaich
+- I’m interested in applying my coding and mathematics skills to interesting data science projects. 
+- Reach me at my email: spencerhaich@gmail.com
 
 <!---
 spencerhaich/spencerhaich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
